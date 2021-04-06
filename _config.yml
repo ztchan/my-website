@@ -1,0 +1,45 @@
+# Dependencies
+markdown:          kramdown
+highlighter:       rouge
+
+# Setup
+title:             "Zenobia Chan"
+email:             zeno@princeton.edu 
+linkedin:          ZenobiaChan
+github_username:   ztchan
+twitter:           ZenobiaChan
+tagline:           "Ph.D. Candidate in Politics, Princeton University"
+description:       "Ph.D. Candidate in Politics, Princeton University"
+url:               ""
+baseurl:          # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+theme:              jekyll-theme-hydeout
+plugins: [jekyll_github_sample, jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-watch]
+
+  
+google_analytics: 
+owner:
+  name:            Zenobia Chan
+  
+author:
+  name:            "Zenobia Chan"
+  url:             https://twitter.com/ZenobiaChan
+
+paginate:          5
+# paginate_path:   '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+disqus:
+  shortname:       zenobiachan
+
+
+
+# sidebar_blog_link: '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+github:
+  repo:              https://github.com/ztchan
+
