@@ -11,14 +11,22 @@ sidebar_link: true
 
 ## Publications
 
-**Chan, Zenobia T.**, Samuel Liu, and [Kai Quek](https://ppaweb.hku.hk/f/quek){:target="_blank"}. Forthcoming. “Audience Costs.” In _Oxford Bibliographies in International Relations_, edited by Patrick James. New York: Oxford University Press.
+* ***Chan, Zenobia T.**, Samuel Liu, and [Kai Quek](https://ppaweb.hku.hk/f/quek){:target="_blank"}. Forthcoming. “Audience Costs.” In _Oxford Bibliographies in International Relations_, edited by Patrick James. New York: Oxford University Press.
 
 ## Working Papers
 
-"[Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union](https://dx.doi.org/10.2139/ssrn.3726973){:target="_blank"}."  (with [Sophie Meunier](https://scholar.princeton.edu/smeunier/home){:target="_blank"}, revised and resubmitted in the _Review of International Organizations_)
+[Email](mailto:zeno@princeton.edu){:target="_blank"} for draft.
+
+* "[Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union](https://dx.doi.org/10.2139/ssrn.3726973){:target="_blank"}."  (with [Sophie Meunier](https://scholar.princeton.edu/smeunier/home){:target="_blank"}, revised and resubmitted in the _Review of International Organizations_)
+
+* "The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy." 
 
 
+* "Aid for Status? Experimental Evidence from China and the United States." (with [Kai Quek](https://ppaweb.hku.hk/f/quek){:target="_blank"})
 
+* "Polarization by Facts: How Strategic Narratives Divide Voters." (with [Noel Foster](https://www.noelfoster.com/){:target="_blank"})
+
+* "Transparent Machine Learning through Improved Variable Importance Measures." (with [Marc Ratkovic](https://scholar.princeton.edu/ratkovic/home){:target="_blank"})
 
 
 
