@@ -26,8 +26,7 @@ sidebar_link: true
 
 * "Polarization by Facts: How Strategic Narratives Divide Voters." (with [Noel Foster](https://www.noelfoster.com/){:target="_blank"})
 
-* "Transparent Machine Learning through Improved Variable Importance Measures." (with [Marc Ratkovic](https://scholar.princeton.edu/ratkovic/home){:target="_blank"})
-
+* "Transparent Machine Learning through Improved Variable Importance Measures." (with [Marc Ratkovic](https://scholar.princeton.edu/ratkovic/home){:target="_blank"}) [Video Presentation at MPSA, April 2020](https://youtu.be/44u5qYwUL-U){:target="_blank"}
 
 
 
