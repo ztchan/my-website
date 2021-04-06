@@ -10,7 +10,7 @@ github_username:   ztchan
 twitter:           ZenobiaChan
 tagline:           "Ph.D. Candidate in Politics, Princeton University"
 description:       "Ph.D. Candidate in Politics, Princeton University"
-baseurl:           "/my-website"
+baseurl:           ""
 url:               "https://ztchan.github.io"
 # url:               "https://zenobiachan.com"
 # baseurl:          # the optional subpath of your site, e.g. "/blog"
