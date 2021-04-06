@@ -1,5 +1,3 @@
-https://github.com/ztchan/my-website
-
 # Dependencies
 markdown:          kramdown
 highlighter:       rouge
@@ -12,10 +10,8 @@ github_username:   ztchan
 twitter:           ZenobiaChan
 tagline:           "Ph.D. Candidate in Politics, Princeton University"
 description:       "Ph.D. Candidate in Politics, Princeton University"
-baseurl:           "/my-website"
-url:               "https://ztchan.github.io"
-# url:               "https://zenobiachan.com"
-# baseurl:          # the optional subpath of your site, e.g. "/blog"
+url:               "https://zenobiachan.com"
+baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
