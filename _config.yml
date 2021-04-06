@@ -34,8 +34,6 @@ author:
 paginate:          5
 # paginate_path:   '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
-disqus:
-  shortname:       zenobiachan
 
 
 
@@ -43,6 +41,4 @@ disqus:
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-github:
-  repo:              https://github.com/ztchan
 
