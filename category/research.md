@@ -19,16 +19,42 @@ sidebar_link: true
 
 * "[Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union](https://dx.doi.org/10.2139/ssrn.3726973){:target="_blank"}."  (with [Sophie Meunier](https://scholar.princeton.edu/smeunier/home){:target="_blank"})
   - Revised and resubmitted in the _Review of International Organizations_ 
+  
+  <details>
+      <summary>Abstract</summary>
+      What determines national preferences for institutionalizing FDI screening? Over the past decade, advanced economies worldwide have tightened their national investment screening mechanisms (ISMs) for foreign direct investment (FDI). In March 2019, the European Union (EU) adopted its first common FDI screening framework. Based on extensive interviews with high-level EU and country officials involved in the negotiation process, and using a unique measure of national support for the EU-wide ISM created through the first-ever elite survey on this subject matter, we find that countries with higher technological levels were more supportive of FDI screening due to concerns over unreciprocated technological transfer. We also find sector-dependent effects of Chinese FDI on country-level support for FDI screening: Countries with high levels of Chinese FDI in strategic sectors are more likely to support the EU ISM, while those with high levels of Chinese investment in low-tech sectors tend to oppose screening. Our overall findings suggest that EU investment screening, and national-level screening in general, might become more restrictive in the future, especially in light of the COVID-19 pandemic.
+  </details>
+  
 
 * "The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy." 
-
+  <details>
+      <summary>Abstract</summary>
+      Does reliance on foreign aid affect government legitimacy in recipient countries? Fiscal contract theorists postulate that public goods and services provided by foreign donors can threaten government legitimacy, but empirical research has found little support for this hypothesis. Drawing on over 120 elite interviews in donor and recipient countries, I argue that the fiscal contract between the government and citizenry is untenable in most aid recipient countries because of the lack of visible taxation. I present a tax game between citizens with reference-dependent preferences and the government. My formal model shows that with sufficient foreign aid, the fiscal contract *does not exist* and citizens' evaluation of their government varies by the discrepancy between their baseline expectations and the actual public goods they receive, regardless of provider. I test my arguments using an original survey experiment in Uganda and find that, in line with my theory, the *positive* effects of aid on government legitimacy are especially pronounced among citizens with lower perceived effective tax rates. 
+  </details>
+    
 * "Aid for Status? Experimental Evidence from China and the United States." (with [Kai Quek](https://ppaweb.hku.hk/f/quek){:target="_blank"})
+  <details>
+      <summary>Abstract</summary>
+      Does international status affect aid preferences? We conduct the first experimental study of aid preferences in an emerging donor country using original survey data from China, and a parallel study in the United States. We find striking differences in the aid preferences of both countries that support the status-seeking hypothesis: Chinese support for aid increases significantly when foreign aid provision is framed as a means of the country gaining higher international status, but Americans remain unswayed. We also use causal forests, a machine learning algorithm, to systematically evaluate heterogeneous treatment effects across a wide range of dispositional covariates in a principled manner with honest inferences. The results indicate status has especially pronounced positive impacts on the aid preferences of cosmopolitan Chinese citizens but negative impacts on Americans who are less cosmopolitan and have lower income. 
+   </details>
 
 * "Polarization by Facts: How Strategic Narratives Divide Voters." (with [Noel Foster](https://www.noelfoster.com/){:target="_blank"})
   - Timothy E. Cook Award for Best Graduate Student Paper in Political Communication Honorable Mention, American Political Science Association (2020)
-
+  
+  <details>
+      <summary>Abstract</summary>
+      How do autocratic foreign powers weaponize factual content on social issues in their democratic adversaries to polarize their voters? Does the salience of such issues as migration determine their effectiveness, or can information operations (info ops) polarize audiences independently? We argue that revisionist powers can *paralyze* the political decision making process in the target states by *polarizing* voters there through information operations (info ops). Drawing on insights from behavioral economics and social psychology, we argue that info ops can use strategic narratives --- factual accounts of policy issues controversial across pre-existing societal cleavages --- to polarize voters through a combination of confirmation bias and reactance. Contrary to recent literature on info ops using fake news, we present evidence on the political economy of social media platforms and microtargeting technology that renders fake news impracticable and counter-productive in most markets. We test the effects of strategic narratives in info ops using original survey experiments on national samples of Estonian voters. Our findings show that exposure to factual content on migration and the Soviet legacy polarized Estonian voters along ethnolinguistic cleavages by making ethnic Estonians more likely to support right-leaning nationalist parties while pushing the Russian-speaking minority to support more left-leaning ethnic interest parties.  Our findings on migration are particularly relevant in a case with no major migration or asylum for decades, suggesting that info ops using factual contents can polarize independently of facts on the ground.  
+  </details>
+  
 * "Transparent Machine Learning through Improved Variable Importance Measures." (with [Marc Ratkovic](https://scholar.princeton.edu/ratkovic/home){:target="_blank"}) 
   - [Video Presentation at MPSA, April 2020](https://youtu.be/44u5qYwUL-U){:target="_blank"}
+
+
+  <details>
+      <summary>Abstract</summary>
+      Boosting and random forests are among the best off-the-shelf prediction tools. These methods offer a variable importance measure (VIM), which is a cumulative measure of the improvement in accuracy over the algorithm.  We show existing variable importance measures, as implemented, are biased, returning positive scores on irrelevant variables.  Intuitively, if a variable is irrelevant but correlates with a relevant variable, this correlation may lead to an improvement in performance may be misattributed to the irrelevant variable.   We introduce a method that removes this bias.  The method works by separating each predictor into a component explained by other predictors (a "predicted variable"), and a component not (a "partialed out variable").  We assess variable importance only through any improvement attributable to the latter.  We prove the method returns a valid VIM, meaning it is mean-zero  and asymptotically normal for irrelevant variables.  Simulation evidence and applications to UCI data suggest the method also performs favorably relative to several existing machine learning methods in terms of predictive accuracy. 
+  </details>
+
 
 
 
