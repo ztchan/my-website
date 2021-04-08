@@ -60,4 +60,4 @@ sidebar_link: true
 	</blockquote>
 </details>
 
-* <a href="https://youtu.be/44u5qYwUL-U" target="_blank">Video Presentation at MPSA</a (April 2020)
+* <a href="https://youtu.be/44u5qYwUL-U" target="_blank">Video Presentation at MPSA</a> (April 2020)
