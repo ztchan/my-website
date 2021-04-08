@@ -3,6 +3,7 @@ layout: page
 title: Curriculum Vitæ
 permalink: /cv/
 sidebar_link: true
+order: 1
 ---
 
 <style>
