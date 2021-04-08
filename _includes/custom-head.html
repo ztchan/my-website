@@ -9,3 +9,7 @@
 
   gtag('config', 'G-8QWHHB9LC1');
 </script>
+
+
+<!-- Sort pages according to oder in sidebar -->
+{% assign pages_list = (site.pages | sort: 'order') %}
