@@ -33,7 +33,15 @@ sidebar_link: true
 		Does reliance on foreign aid affect government legitimacy in recipient countries? Fiscal contract theorists postulate that public goods and services provided by foreign donors can threaten government legitimacy, but empirical research has found little support for this hypothesis. Drawing on over 120 elite interviews in donor and recipient countries, I argue that the fiscal contract between the government and citizenry is untenable in most aid recipient countries because of the lack of visible taxation. I present a tax game between citizens with reference-dependent preferences and the government. My formal model shows that with sufficient foreign aid, the fiscal contract <i>does not exist</i> and citizens' evaluation of their government varies by the discrepancy between their baseline expectations and the actual public goods they receive, regardless of provider. I test my arguments using an original survey experiment in Uganda and find that, in line with my theory, the <i>positive</i> effects of aid on government legitimacy are especially pronounced among citizens with lower perceived effective tax rates. 
 	</blockquote>
 </details>
+<br>
 
+<details>
+	<summary>"Great Expectations: How Expectancy Discrepancies Shape Effectiveness of Reassurance."</summary>
+	<blockquote>
+		What makes reassurance effective? Reassurance is crucial to stability in international politics as a means of signaling benign intentions towards allies and adversaries. Drawing on insights from behavioral economics, information theory, and psychology, I argue that reassurance signals are most effective when they are surprising, i.e. when they deviate drastically from receivers' prior expectations, because they draw more attention from decision-makers, prompting them to re-evaluate their pre-existing beliefs about the sender. When decision-makers re-evaluate their beliefs, prior expectations serve as the reference point against which they assess the sender's intentions. My theory posits that when decision-makers are <i>pleasantly surprised</i>, i.e. receiving a signal that is both credible and above expectations, they are more likely to believe in the benign intentions of the sender. Contrary to the rationalist literature on costly signaling in international relations, my theory holds that reassuring signals are informative not necessarily because they are costly, but because they are surprising. I test my theory using an original survey experiment on a national sample of Estonian voters. I find that the effectiveness of reassurance signals hinges on the receivers' prior expectations and that costly signals are not necessarily more credible. 
+	</blockquote>
+</details>
+<br>
 
 <details>
 	<summary>"Aid for Status? Experimental Evidence from China and the United States." (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)</summary>
@@ -41,7 +49,7 @@ sidebar_link: true
 		Does international status affect aid preferences? We conduct the first experimental study of aid preferences in an emerging donor country using original survey data from China, and a parallel study in the United States. We find striking differences in the aid preferences of both countries that support the status-seeking hypothesis: Chinese support for aid increases significantly when foreign aid provision is framed as a means of the country gaining higher international status, but Americans remain unswayed. We also use causal forests, a machine learning algorithm, to systematically evaluate heterogeneous treatment effects across a wide range of dispositional covariates in a principled manner with honest inferences. The results indicate status has especially pronounced positive impacts on the aid preferences of cosmopolitan Chinese citizens but negative impacts on Americans who are less cosmopolitan and have lower income. 
 	</blockquote>
 </details>
-     
+<br>
 
 <details>
 	<summary>"Polarization by Facts: How Strategic Narratives Divide Voters." (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)</summary>
