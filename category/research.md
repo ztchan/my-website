@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 sidebar_link: true
 sidebar_sort_order: 2
-priority: .8
+sitemap:
+  priority: .8
 ---
 
 * TOC
