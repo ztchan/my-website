@@ -12,7 +12,7 @@ sidebar_sort_order: 2
 
 ## Publications
 
-* **Chan, Zenobia T.**, <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a>{:target="_blank"}, and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>. Forthcoming. “Audience Costs.” In _Oxford Bibliographies in International Relations_, edited by Patrick James. New York: Oxford University Press.
+* **Chan, Zenobia T.**, <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a>, and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>. Forthcoming. “Audience Costs.” In _Oxford Bibliographies in International Relations_, edited by Patrick James. New York: Oxford University Press.
 
 ## Working Papers
 
