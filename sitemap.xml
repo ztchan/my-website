@@ -30,7 +30,7 @@ sitemap:
     {% endunless %}
   {% endfor %}
   {% for page in site.pages %}
-    {% unless page.sitemap.exclude == "yes" or page.url contains "assets" or page.url contains "feed.xml" or page.url == "https://ztchan.github.io/" %}
+    {% unless page.sitemap.exclude == "yes" or page.url contains "assets" or page.url contains "robots.txt" or page.url contains "feed.xml" or page.url == "https://ztchan.github.io/" %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
