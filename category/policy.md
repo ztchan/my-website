@@ -4,6 +4,7 @@ title: Policy Writing
 permalink: /policy/
 sidebar_link: true
 sidebar_sort_order: 3
+priority: 3
 ---
 
 * Kapstein, Ethan B., Jacob N. Shapiro, **Zenobia Chan**, and Kathryn Nicholson. 2018. "<a href="https://esoc.princeton.edu/publications/private-sector-development-conflict-affected-states" target="_blank">Private Sector Development in Conflict Affected States</a>." Policy research paper. London: Department for International Development of the United Kingdom. 
