@@ -23,7 +23,8 @@ remote_theme:       fongandrew/hydeout
 plugins: [jekyll_github_sample, jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-watch]
 
   
-google_analytics: 
+google_analytics:  G-8QWHHB9LC1
+
 owner:
   name:            Zenobia Chan
   
