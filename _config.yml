@@ -20,7 +20,7 @@ url:               "https://ztchan.github.io"
                   # sidebar_blog_link below.
 # theme:              jekyll-theme-hydeout
 remote_theme:       fongandrew/hydeout
-plugins: [jekyll_github_sample, jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-watch]
+plugins: [jekyll_github_sample, jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-watch, jekyll-sitemap]
 
   
 google_analytics:  G-8QWHHB9LC1
