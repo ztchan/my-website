@@ -4,7 +4,7 @@ title: Curriculum Vitæ
 permalink: /cv/
 sidebar_link: true
 sidebar_sort_order: 1
-priority: 1
+priority: .9
 ---
 
 <style>
