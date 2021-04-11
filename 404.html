@@ -22,5 +22,8 @@ layout: default
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
   
-  <h2><a href="./"><strong>Home</strong></a></h2>
+  {% if site.sidebar_home_link %}
+    <a class="home-link {% if page.url == '/' %} active{% endif %}"
+        href="{{ "/" | relative_url }}">Home</a>
+  {% endif %}
 </div>
