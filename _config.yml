@@ -12,8 +12,8 @@ twitter:           ZenobiaChan
 tagline:           "Ph.D. Candidate in Politics, Princeton University"
 description:       "Ph.D. Candidate in Politics, Princeton University"
 baseurl:           ""
-url:               "https://ztchan.github.io"
-# url:               "https://zenobiachan.com"
+# url:               "https://ztchan.github.io"
+url:               "https://zenobiachan.com"
 # baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
