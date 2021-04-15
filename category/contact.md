@@ -22,9 +22,9 @@ United States <br>
 
 ### Notes on Name and Pronunciation
 
-Like many Hongkongers, I have an “English” first name that I go by. My colleagues call me Zenobia (zuh-<b>noh</b>-bee-uh), Zeno (<b>zee</b>-noh), or Z (zee, as in the last letter of the English alphabet in American English). T comes from Tin-Yan, the transliteration of my first name in Cantonese, which I use as my middle initial. Chan is my family name. 
+Like many Hongkongers, I have an “English” first name that I go by. My colleagues call me Zenobia (zuh-<b>noh</b>-bee-uh), Zeno (<b>zee</b>-noh), or Z (zee, as in the last letter of the English alphabet in American English). T comes from the transliteration of my first name in Cantonese, which I use as my middle initial. Chan is my family name. 
 
-How I say my name:
+Listen to the pronunciation:
 <audio
 	controls
 	src="/assets/pronunciation.m4a">
