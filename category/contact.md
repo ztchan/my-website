@@ -8,19 +8,7 @@ sitemap:
   priority: .1
 ---
 
-## Zenobia T. Chan
-
-<figure>
-    <figcaption>Name Pronunciation:</figcaption>
-    <audio
-        controls
-        src="/assets/pronunciation.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure> 
-
-
+<b>Zenobia T. Chan</b><br>
 Ph.D. Candidate <br>
 Department of Politics <br>
 001 Fisher Hall <br>
@@ -33,8 +21,18 @@ United States <br>
 
 
 <p><span style="font-size: 10px;">
-	Like many Hongkongers, I have an “English” first name that I go by. My colleagues call me Zenobia (zuh-<b>now</b>-bee-uh) or Zeno (<b>zee</b>-now), and closer friends call me Z (zee, as in the last letter of the English alphabet in American English). T comes from Tin-Yan, the transliteration of my first name in Cantonese, which I use as my middle initial. Chan––with an A, because it's Cantonese––is my family name. 
+	PS, like many Hongkongers, I have an “English” first name that I go by. My colleagues call me Zenobia (zuh-<b>now</b>-bee-uh) or Zeno (<b>zee</b>-now), and closer friends call me Z (zee, as in the last letter of the English alphabet in American English). T comes from Tin-Yan, the transliteration of my first name in Cantonese, which I use as my middle initial. Chan––with an A, because it's Cantonese––is my family name. 
 </span></p>
+
+<figure>
+    <figcaption><span style="font-size: 9px;">Name Pronunciation:</span></figcaption>
+    <audio
+        controls
+        src="/assets/pronunciation.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure> 
 
 
 
