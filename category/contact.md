@@ -20,19 +20,14 @@ United States <br>
 <a href="https://twitter.com/ZenobiaChan?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ZenobiaChan</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<p><span style="font-size: 11px;">
-	PS, like many Hongkongers, I have an “English” first name that I go by. My colleagues call me Zenobia (zuh-<b>now</b>-bee-uh) or Zeno (<b>zee</b>-now), and closer friends call me Z (zee, as in the last letter of the English alphabet in American English). T comes from Tin-Yan, the transliteration of my first name in Cantonese, which I use as my middle initial. Chan––with an A, because it's Cantonese––is my family name. 
-</span></p>
+## Notes on Name and Pronunciation
 
-<figure>
-    <figcaption><span style="font-size: 10px;">Name Pronunciation:</span></figcaption>
-    <audio
-        controls
-        src="/assets/pronunciation.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure> 
+Like many Hongkongers, I have an “English” first name that I go by. My colleagues call me Zenobia (zuh-<b>now</b>-bee-uh) or Zeno (<b>zee</b>-now), and closer friends call me Z (zee, as in the last letter of the English alphabet in American English). T comes from Tin-Yan, the transliteration of my first name in Cantonese, which I use as my middle initial. Chan is my family name. 
 
-
+My preferred pronunciation:
+<audio
+	controls
+	src="/assets/pronunciation.m4a">
+		Your browser does not support the <code>audio</code> element.
+</audio>
 
