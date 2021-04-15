@@ -21,21 +21,20 @@ sitemap:
 </figure> 
 
 
-Ph.D. Candidate 
+Ph.D. Candidate <br>
+Department of Politics <br>
+001 Fisher Hall <br>
+Princeton, NJ 08544-1012 <br>
+United States <br>
+<a href="mailto:zeno@princeton.edu" target="_blank">zeno@princeton.edu</a>
 
-Department of Politics
-
-001 Fisher Hall
-
-Princeton, NJ 08544-1012
-
-United States
-
-[zeno@princeton.edu](mailto:zeno@princeton.edu){:target="_blank"}
 
 <a href="https://twitter.com/ZenobiaChan?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ZenobiaChan</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<p><span class="small">Like many Hongkongers, I have an “English” first name that I go by. My colleagues call me Zenobia (zuh-<b>now</b>-bee-uh) or Zeno (<b>zee</b>-now), and closer friends call me Z (zee, as in the last letter of the English alphabet in American English). T comes from Tin-Yan, the transliteration of my first name in Cantonese, which I use as my middle initial. Chan––with an A, because it's Cantonese––is my family name. </span></p>
+
+<p><span style="font-size: 10px;">
+	Like many Hongkongers, I have an “English” first name that I go by. My colleagues call me Zenobia (zuh-<b>now</b>-bee-uh) or Zeno (<b>zee</b>-now), and closer friends call me Z (zee, as in the last letter of the English alphabet in American English). T comes from Tin-Yan, the transliteration of my first name in Cantonese, which I use as my middle initial. Chan––with an A, because it's Cantonese––is my family name. 
+</span></p>
 
 
 
