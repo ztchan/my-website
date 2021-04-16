@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 sidebar_link: true
-sidebar_sort_order: 4
+sidebar_sort_order: 5
 sitemap:
   priority: .1
 ---
