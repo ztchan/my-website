@@ -61,11 +61,11 @@ sitemap:
 
 * **SPI 507B: Quantitative Analysis for Policymakers** 
 	- Tutor with David Lee, School of Public and International Affairs, Princeton University (Fall 2019, Fall 2020)
-	- <details><summary>Course description</summary><blockquote>This course focuses on the role of the government in the economy. The aim is to provide an understanding of the reasons for government intervention in the economy, analyzing the benefits and costs of possible government policies, and the response of economic agents to the government's actions. The course covers education, labor, and tax policy, social insurance programs, public goods, environmental protection, and the interaction between different levels of government.</blockquote></details> 
+	- <details><summary>Course description</summary><blockquote>Today, more data are available to researchers than ever before. In this course, we’ll cover how to use statistics to harness these data to improve policy analysis. This course will equip you to understand the mathematical foundations of statistics, to understand common types of quantitative analysis, and to apply these tools yourself using the statistical software package Stata. Our overarching goal is application: to give you the means of answering big policy questions, and not get bogged into the weeds of math and notation. We want you to be a discerning consumer of statistical news, and someone who can use the principles of statistics to do your own analysis.</blockquote></details> 
 
 * **SPI 522: Microeconomic Analysis of Domestic Policy** 
 	- Tutor with Alexandre Mas, School of Public and International Affairs, Princeton University (Fall 2020)
-	- <details><summary>Course description</summary><blockquote>The purpose of this course is to develop an understanding of microeconomic tools and learn how to apply them to the analysis of policies.  Students need not have taken any other economics courses but they should have a good command over algebra and be familiar with basic calculus concepts, although proficiency in calculus is not necessary.</blockquote></details> 
+	- <details><summary>Course description</summary><blockquote>This course focuses on the role of the government in the economy. The aim is to provide an understanding of the reasons for government intervention in the economy, analyzing the benefits and costs of possible government policies, and the response of economic agents to the government's actions. The course covers education, labor, and tax policy, social insurance programs, public goods, environmental protection, and the interaction between different levels of government.</blockquote></details> 
 
 
 * **SPI 551B: Microeconomic Analysis for Policymakers** 
