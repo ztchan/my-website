@@ -32,7 +32,7 @@ sitemap:
 
 
 * **POL 573: Quantitative Analysis III** (Ph.D-level seminar)
-	- Preceptor with Roc\'io Titiunik, Department of Politics, Princeton University (Fall 2019)
+	- Preceptor with Rocío Titiunik, Department of Politics, Princeton University (Fall 2019)
 	- <details><summary>Course description</summary><blockquote>This course is an advanced graduate-level methods course, meant to be taken after POL 571 and POL 572 or equivalent courses. The course will cover several topics that are not usually covered in the first-year sequence, including asymptotics, hypothesis testing, maximum likelihood estimation, nonparametric estimation, partial identification, and resampling methods. The course will be both theoretical and practical. There will be regular problem sets that will require the empirical analysis of real datasets as well as theoretical exercises, and two exams.</blockquote></details> 
 	
 
