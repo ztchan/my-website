@@ -15,6 +15,11 @@ sitemap:
 
 ## Undergraduate Courses
 
+* <details><summary>**POL 981S7: Europe and Russia in the World**</summary>
+  	- Preceptor with Marzenna James, Department of Politics and School of Public and International Affairs, Princeton University (Fall 2020)
+	- <details><summary>Course description</summary><blockquote>The workshop will deal with a variety of issues in the area of European and Russian foreign policies, as well as transatlantic cooperation, including the questions: What are the mechanisms of multilateral cooperation between the United States and other global powers with Europe, and between countries within Europe?  What are the main political problems in Europe, the European Union, and transatlantic cooperation? What is the importance of Brexit for transatlantic relations and the viability of the European Union as an economic and political unit in international relations? What is the nature of the challenge posed by Russian and Chinese foreign policies vis-à-vis the European Union? The goal of the workshop is to initiate the students into the process of independent research: to understand its underlying logic. The main emphasis will be on the basic methodological foundations upon which the students will design their own research projects. </blockquote>
+  </details> 
+
 	
 * **POL 981S7: Europe and Russia in the World**
 	- Preceptor with Marzenna James, Department of Politics and School of Public and International Affairs, Princeton University (Fall 2020)
