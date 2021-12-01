@@ -23,7 +23,7 @@ sitemap:
 
 ## Working Papers
 
-Please [email me](mailto:zeno@princeton.edu){:target="_blank"} for the latest drafts.
+Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the latest drafts.
 
 * "The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy."
 	-  <details><summary>Abstract</summary><blockquote>Does reliance on foreign aid affect government legitimacy in recipient countries? Fiscal contract theorists postulate that public goods and services provided by foreign donors can threaten government legitimacy, but empirical research has found little support for this hypothesis. Drawing on over 120 elite interviews in donor and recipient countries, I argue that the fiscal contract between the government and citizenry is untenable in most aid recipient countries because of the lack of visible taxation. I present a tax game between citizens with reference-dependent preferences and the government. My formal model shows that with sufficient foreign aid, the fiscal contract <i>does not exist</i> and citizens' evaluation of their government varies by the discrepancy between their baseline expectations and the actual public goods they receive, regardless of provider. I test my arguments using an original survey experiment in Uganda and find that, in line with my theory, the <i>positive</i> effects of aid on government legitimacy are especially pronounced among citizens with lower perceived effective tax rates. </blockquote></details> 
