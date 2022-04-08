@@ -14,8 +14,8 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 hy-drawer {
-  width: 25%; // inline
-  position: static; // inline
+  width: 100%; // inline
+  position: relative; // inline
   overflow: hidden; // inline
   display: block; // inline
   z-index: 4; // inline
@@ -38,8 +38,8 @@ hy-drawer {
     margin-left: 0;
 
     &.cover {
-      position: relative;
-      width: 100%;
+      position: static;
+      width: 25%;
     }
     // >>>
 
