@@ -14,7 +14,7 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 hy-drawer {
-  width: 25%; // inline
+  width: 100%; // inline
   position: relative; // inline
   overflow: hidden; // inline
   display: block; // inline
@@ -22,7 +22,7 @@ hy-drawer {
 
   @media screen {
     // <<< link
-    --hy-drawer-width: 100%;
+    --hy-drawer-width: 25%;
     --hy-drawer-peek-width: .5rem;
     --hy-drawer-box-shadow: 0 0 1rem rgba(0, 0, 0, 0.25);
     // >>>
