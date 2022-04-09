@@ -424,3 +424,9 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+# Other Plugins
+# ---------------------------------------------------------------------------------------
+
+optional_front_matter:
+  remove_originals:    true
