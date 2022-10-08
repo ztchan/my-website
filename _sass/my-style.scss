@@ -1,4 +1,4 @@
-//darken the menu drawer icon
+// darken the menu drawer icon
 .icon-menu:before {
     color: rgb(150,150,150);
 }
@@ -6,3 +6,19 @@
 hy-drawer {
     width: 25%;
 }
+
+// button
+.button {
+    position: absolute;
+    top: 10%;
+    background-color: white;
+    color: #002d62;
+    border-color: #002d62; 
+    border-radius: 8px; 
+    padding: 5px;
+  }
+
+.button:hover {
+    background-color: #002d62;
+    color: white;
+  }
