@@ -14,16 +14,16 @@ sitemap:
 
 
 ## Publications
-<div class="container">
+
 * **Chan, Zenobia T.**, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union" _Review of International Organizations_ 17 (3): 513–41.
 
-<button type="button" class="btn" data-toggle="collapse" data-target="behindTheScreen">Abstract</button>
-<a href="https://doi.org/10.1007/s11558-021-09436-y" target="_blank" class="button">Publisher's Version</a>
+<button type="button" class="button" data-toggle="collapse" data-target="behindTheScreen">Abstract</button>
+<button name="button" class="button" onclick="https://doi.org/10.1007/s11558-021-09436-y">Publisher's Version</button>
 <a href="https://thediplomat.com/2021/04/think-the-eu-isnt-acting-on-china-look-closer/" target="_blank" class="button">Featured in <i>The Diplomat</i></a>
 </div><div id="behindTheScreen" class="collapse">
     <blockquote>What determines national preferences for institutionalizing FDI screening? Over the past decade, advanced economies worldwide have tightened their national investment screening mechanisms (ISMs) for foreign direct investment (FDI). In March 2019, the European Union (EU) adopted its first common FDI screening framework. Based on extensive interviews with high-level EU and country officials involved in the negotiation process, and using a unique measure of national support for the EU-wide ISM created through the first-ever elite survey on this subject matter, we find that countries with higher technological levels were more supportive of FDI screening due to concerns over unreciprocated technological transfer. We also find sector-dependent effects of Chinese FDI on country-level support for FDI screening: Countries with high levels of Chinese FDI in strategic sectors are more likely to support the EU ISM, while those with high levels of Chinese investment in low-tech sectors tend to oppose screening. Our overall findings suggest that EU investment screening, and national-level screening in general, might become more restrictive in the future, especially in light of the COVID-19 pandemic.</blockquote>
 </div>
-</div>
+
 
 * <a href="https://natematias.com/" target="_blank">Matias, J. Nathan</a>, Eric Pennington, and **Zenobia Chan**. 2022. "Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials." _Proccedings of ACM Conference on Fairness, Accountability, and Transparency_, 1722–32. 
 
