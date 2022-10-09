@@ -23,7 +23,7 @@ sitemap:
   outline: none;
   font-size: 15px;
 }
-
+  
 .active, .collapsible:hover {
   background-color: #555;
 }
@@ -34,6 +34,9 @@ sitemap:
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
+  display: none;
+  &.show {
+    display: block;
 }
 </style>
 </head>
