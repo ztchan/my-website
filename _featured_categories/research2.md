@@ -28,7 +28,7 @@ function toggler(divId) {
 
 ## Publications
 
-**Chan, Zenobia T.**, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "<a href="https://doi.org/10.1007/s11558-021-09436-y" target="_blank">Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union</a>." _Review of International Organizations_ 17 (3): 513–41.
+**Chan, Zenobia T.**, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union." _Review of International Organizations_ 17 (3): 513–41.
 
 <button onclick=" window.open('https://doi.org/10.1007/s11558-021-09436-y','_blank')">Publisher's Version</button> 
 <button onclick="javascript:toggler('absBehindTheScreen')">Abstract</button>
