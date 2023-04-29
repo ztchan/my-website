@@ -21,10 +21,6 @@ function myFunction(divId) {
 
 
 <style>
-.hidden {
-    display:none;
-}
-	
 .button {
     transition-duration: 0.2s;
     border-radius: 8px;
@@ -51,7 +47,7 @@ function myFunction(divId) {
 <button onclick=" window.open('https://doi.org/10.1007/s11558-021-09436-y','_blank')">Publisher's Version</button> 
 <button onclick="myFunction('absBehindTheScreen')">Abstract</button>
 
-<div id='absBehindTheScreen' class="hidden">
+<div id='absBehindTheScreen'>
   <blockquote>What determines national preferences for institutionalizing FDI screening? Over the past decade, advanced economies worldwide have tightened their national investment screening mechanisms (ISMs) for foreign direct investment (FDI). In March 2019, the European Union (EU) adopted its first common FDI screening framework. Based on extensive interviews with high-level EU and country officials involved in the negotiation process, and using a unique measure of national support for the EU-wide ISM created through the first-ever elite survey on this subject matter, we find that countries with higher technological levels were more supportive of FDI screening due to concerns over unreciprocated technological transfer. We also find sector-dependent effects of Chinese FDI on country-level support for FDI screening: Countries with high levels of Chinese FDI in strategic sectors are more likely to support the EU ISM, while those with high levels of Chinese investment in low-tech sectors tend to oppose screening. Our overall findings suggest that EU investment screening, and national-level screening in general, might become more restrictive in the future, especially in light of the COVID-19 pandemic.</blockquote>
 </div>
 
@@ -66,9 +62,10 @@ function myFunction(divId) {
 <button onclick=" window.open('https://osf.io/tn6x4/','_blank')">Pre-analysis Plan</button> 
 
 
-<div id='absNof1' class="hidden">
+<div id='absNof1'>
   <blockquote>As public trust in technology companies has declined, people are questioning the effects of digital technologies in their lives. In this context, many evidence-free claims from corporations and tech critics are widely circulated. How can members of the public make evidence-based decisions about digital technology in their lives? In clinical fields, N -of-one trials enable participant-investigators to make personalized causal discoveries about managing health, improving fitness, and improving their education. Similar methods could help community scientists understand and manage how they use digital technologies. In this paper, we introduce Conjecture, a system for coordinating <i>N</i>-of-one trials that can guide personal decisions about technology use and contribute to science. We describe <i>N</i>-of-one trials as a design challenge and present the design of the Conjecture system. We evaluate the system with a field experiment that tests folk theories about the influence of colorful screens on alleged phone addiction. We present findings on the design of <i>N</i>-of-one-trial systems based on submitted data, interviews, and surveys with 14 participants. Taken together, this paper introduces <i>N</i>-of-one trials as a fruitful direction for computer scientists designing industry-independent systems for evidence-based technology governance and accountability.</blockquote>
 </div>
+
 	- <a href="https://youtu.be/8VQ0Kd6T7_M" target="_blank">Video presentation</a>
 	- <a href="https://citizensandtech.org/conjecture/" target="_blank">Blog post</a> by Cornell CAT Lab
 	- <a href="https://osf.io/tn6x4/" target="_blank">Pre-analysis plan</a> on OSF  
