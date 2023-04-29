@@ -63,7 +63,7 @@ function myFunction(divId) {
 <button onclick="myFunction('absNof1')">Abstract</button>
 <button onclick=" window.open('https://youtu.be/8VQ0Kd6T7_M','_blank')">Video Presentation</button> 
 <button onclick=" window.open('https://citizensandtech.org/conjecture/','_blank')">Blog Post</button> 
-<button onclick=" window.open('https://osf.io/tn6x4/','_blank')">>Pre-analysis Plan</button> 
+<button onclick=" window.open('https://osf.io/tn6x4/','_blank')">Pre-analysis Plan</button> 
 
 
 <div id='absNof1' class="hidden">
