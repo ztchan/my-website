@@ -58,7 +58,7 @@ function myFunction(divId) {
 
 
 <p>
-<a href="https://natematias.com/" target="_blank">Matias, J. Nathan</a>, Eric Pennington, and <b>Chan, Zenobia T.</b>. 2022. "Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials." In <i>2022 ACM Conference on Fairness, Accountability, and Transparency</i>, 1722–32. FAccT '22. New York: Association for Computing Machinery. 
+<a href="https://natematias.com/" target="_blank">Matias, J. Nathan</a>, Eric Pennington, and <b>Zenobia Chan</b>. 2022. "Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials." In <i>2022 ACM Conference on Fairness, Accountability, and Transparency</i>, 1722–32. FAccT '22. New York: Association for Computing Machinery. 
 <br>
 <button onclick="myFunction('absNof1')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1145/3531146.3533227','_blank')" class="button">Publisher's Version</button> 
