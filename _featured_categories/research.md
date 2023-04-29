@@ -24,7 +24,7 @@ function myFunction(divId) {
 <style>
 .button {
     transition-duration: 0.2s;
-    border-radius: 8px;
+    border-radius: 4px;
     background-color: white;
     border: 1px dashed #0096D6;
     font-size: 12px;
