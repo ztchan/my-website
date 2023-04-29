@@ -8,6 +8,7 @@ sitemap:
   priority: .8
 ---
 
+<script>
 function myFunction() {
   var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
@@ -16,6 +17,7 @@ function myFunction() {
     x.style.display = "none";
   }
 }
+</script>
 
 
 * TOC
