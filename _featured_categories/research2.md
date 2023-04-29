@@ -43,7 +43,7 @@ function myFunction(divId) {
 ## Publications
 
 <p>
-<b>Chan, Zenobia T.</b>, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union." _Review of International Organizations_ 17 (3): 513–41.
+<b>Chan, Zenobia T.</b>, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union." <i>Review of International Organizations</i> 17 (3): 513–41.
 <br>
 <button onclick="myFunction('absBehindTheScreen')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1007/s11558-021-09436-y','_blank')" class="button">Publisher's Version</button> 
@@ -55,7 +55,7 @@ function myFunction(divId) {
 
 
 <p>
-<a href="https://natematias.com/" target="_blank">Matias, J. Nathan</a>, Eric Pennington, and <b>Chan, Zenobia T.</b>. 2022. "Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials." In _2022 ACM Conference on Fairness, Accountability, and Transparency_, 1722–32. FAccT '22. New York: Association for Computing Machinery. 
+<a href="https://natematias.com/" target="_blank">Matias, J. Nathan</a>, Eric Pennington, and <b>Chan, Zenobia T.</b>. 2022. "Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials." In <i>2022 ACM Conference on Fairness, Accountability, and Transparency</i>, 1722–32. FAccT '22. New York: Association for Computing Machinery. 
 <br>
 <button onclick="myFunction('absNof1')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1145/3531146.3533227','_blank')" class="button">Publisher's Version</button> 
@@ -70,7 +70,7 @@ function myFunction(divId) {
 
 
 <p>
-<b>Chan, Zenobia T.</b>, <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a>, and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>. 2021. “Audience Costs and the Credibility of Commitments.” In _Oxford Bibliographies in International Relations_, edited by Patrick James. New York: Oxford University Press.  
+<b>Chan, Zenobia T.</b>, <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a>, and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>. 2021. “Audience Costs and the Credibility of Commitments.” In <i>Oxford Bibliographies in International Relations</i>, edited by Patrick James. New York: Oxford University Press.  
 <br>
 <button onclick=" window.open('https://doi.org/10.1093/OBO/9780199743292-0305','_blank')" class="button">Publisher's Version</button> 
 </p>
