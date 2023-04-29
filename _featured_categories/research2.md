@@ -44,10 +44,10 @@ function myFunction(divId) {
 
 **Chan, Zenobia T.**, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union." _Review of International Organizations_ 17 (3): 513–41.
 
-<button onclick="myFunction('absBehindTheScreen')" style="display: none;">Abstract</button>
+<button onclick="myFunction('absBehindTheScreen')">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1007/s11558-021-09436-y','_blank')">Publisher's Version</button> 
 
-<div id='absBehindTheScreen'>
+<div id='absBehindTheScreen' style="display: none;">
   <blockquote>What determines national preferences for institutionalizing FDI screening? Over the past decade, advanced economies worldwide have tightened their national investment screening mechanisms (ISMs) for foreign direct investment (FDI). In March 2019, the European Union (EU) adopted its first common FDI screening framework. Based on extensive interviews with high-level EU and country officials involved in the negotiation process, and using a unique measure of national support for the EU-wide ISM created through the first-ever elite survey on this subject matter, we find that countries with higher technological levels were more supportive of FDI screening due to concerns over unreciprocated technological transfer. We also find sector-dependent effects of Chinese FDI on country-level support for FDI screening: Countries with high levels of Chinese FDI in strategic sectors are more likely to support the EU ISM, while those with high levels of Chinese investment in low-tech sectors tend to oppose screening. Our overall findings suggest that EU investment screening, and national-level screening in general, might become more restrictive in the future, especially in light of the COVID-19 pandemic.</blockquote>
 </div>
 
@@ -55,14 +55,14 @@ function myFunction(divId) {
 
 <a href="https://natematias.com/" target="_blank">Matias, J. Nathan</a>, Eric Pennington, and **Zenobia Chan**. 2022. "<a href="https://doi.org/10.1145/3531146.3533227" target="_blank">Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials</a>." In _2022 ACM Conference on Fairness, Accountability, and Transparency_, 1722–32. FAccT '22. New York: Association for Computing Machinery. 
 
-<button onclick="myFunction('absNof1')" style="display: none;">Abstract</button>
+<button onclick="myFunction('absNof1')">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1145/3531146.3533227','_blank')">Publisher's Version</button> 
 <button onclick=" window.open('https://youtu.be/8VQ0Kd6T7_M','_blank')">Video Presentation</button> 
 <button onclick=" window.open('https://citizensandtech.org/conjecture/','_blank')">Blog Post</button> 
 <button onclick=" window.open('https://osf.io/tn6x4/','_blank')">Pre-analysis Plan</button> 
 
 
-<div id='absNof1'>
+<div id='absNof1' style="display: none;">
   <blockquote>As public trust in technology companies has declined, people are questioning the effects of digital technologies in their lives. In this context, many evidence-free claims from corporations and tech critics are widely circulated. How can members of the public make evidence-based decisions about digital technology in their lives? In clinical fields, N -of-one trials enable participant-investigators to make personalized causal discoveries about managing health, improving fitness, and improving their education. Similar methods could help community scientists understand and manage how they use digital technologies. In this paper, we introduce Conjecture, a system for coordinating <i>N</i>-of-one trials that can guide personal decisions about technology use and contribute to science. We describe <i>N</i>-of-one trials as a design challenge and present the design of the Conjecture system. We evaluate the system with a field experiment that tests folk theories about the influence of colorful screens on alleged phone addiction. We present findings on the design of <i>N</i>-of-one-trial systems based on submitted data, interviews, and surveys with 14 participants. Taken together, this paper introduces <i>N</i>-of-one trials as a fruitful direction for computer scientists designing industry-independent systems for evidence-based technology governance and accountability.</blockquote>
 </div>
 
