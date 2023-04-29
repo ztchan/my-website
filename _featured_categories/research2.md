@@ -9,12 +9,12 @@ sitemap:
 ---
 
 <script>
-function myFunction(myDIV) {
-  var x = document.getElementById(myDIV);
+function myFunction(y) {
+  var x = document.getElementById(y);
   if (x.style.display === "none") {
-    x.style.display = "none";
-  } else {
     x.style.display = "block";
+  } else {
+    x.style.display = "none";
   }
 }
 </script>
@@ -30,7 +30,7 @@ function myFunction(myDIV) {
 
 <button onclick="myFunction('absBehindTheScreen')">Abstract</button>
 
-<div id="absBehindTheScreen">
+<div id='absBehindTheScreen'>
   <blockquote>What determines national preferences for institutionalizing FDI screening? Over the past decade, advanced economies worldwide have tightened their national investment screening mechanisms (ISMs) for foreign direct investment (FDI). In March 2019, the European Union (EU) adopted its first common FDI screening framework. Based on extensive interviews with high-level EU and country officials involved in the negotiation process, and using a unique measure of national support for the EU-wide ISM created through the first-ever elite survey on this subject matter, we find that countries with higher technological levels were more supportive of FDI screening due to concerns over unreciprocated technological transfer. We also find sector-dependent effects of Chinese FDI on country-level support for FDI screening: Countries with high levels of Chinese FDI in strategic sectors are more likely to support the EU ISM, while those with high levels of Chinese investment in low-tech sectors tend to oppose screening. Our overall findings suggest that EU investment screening, and national-level screening in general, might become more restrictive in the future, especially in light of the COVID-19 pandemic.</blockquote>
 </div>
 
