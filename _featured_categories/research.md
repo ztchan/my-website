@@ -29,6 +29,7 @@ function myFunction(divId) {
     border: 1px dashed #0096D6;
     font-size: 12px;
     margin: 4px auto;
+    cursor: pointer;
 }
 	
 .button:hover {
