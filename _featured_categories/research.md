@@ -28,7 +28,7 @@ function myFunction(divId) {
     background-color: white;
     border: 1px dashed #0096D6;
     font-size: 12px;
-    margin: 3px;
+    margin: 4px 2px;
 }
 	
 .button:hover {
