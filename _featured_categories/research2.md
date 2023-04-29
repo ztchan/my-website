@@ -43,8 +43,8 @@ function myFunction(divId) {
 ## Publications
 
 <p>
-**Chan, Zenobia T.**, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union." _Review of International Organizations_ 17 (3): 513–41.
-
+<b>Chan, Zenobia T.</b>, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union." _Review of International Organizations_ 17 (3): 513–41.
+<br>
 <button onclick="myFunction('absBehindTheScreen')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1007/s11558-021-09436-y','_blank')" class="button">Publisher's Version</button> 
 
@@ -55,8 +55,8 @@ function myFunction(divId) {
 
 
 <p>
-<a href="https://natematias.com/" target="_blank">Matias, J. Nathan</a>, Eric Pennington, and **Zenobia Chan**. 2022. "Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials." In _2022 ACM Conference on Fairness, Accountability, and Transparency_, 1722–32. FAccT '22. New York: Association for Computing Machinery. 
-
+<a href="https://natematias.com/" target="_blank">Matias, J. Nathan</a>, Eric Pennington, and <b>Chan, Zenobia T.</b>. 2022. "Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials." In _2022 ACM Conference on Fairness, Accountability, and Transparency_, 1722–32. FAccT '22. New York: Association for Computing Machinery. 
+<br>
 <button onclick="myFunction('absNof1')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1145/3531146.3533227','_blank')" class="button">Publisher's Version</button> 
 <button onclick=" window.open('https://youtu.be/8VQ0Kd6T7_M','_blank')" class="button">Presentation Video</button> 
@@ -70,8 +70,8 @@ function myFunction(divId) {
 
 
 <p>
-**Chan, Zenobia T.**, <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a>, and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>. 2021. “Audience Costs and the Credibility of Commitments.” In _Oxford Bibliographies in International Relations_, edited by Patrick James. New York: Oxford University Press.  
-
+<b>Chan, Zenobia T.</b>, <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a>, and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>. 2021. “Audience Costs and the Credibility of Commitments.” In _Oxford Bibliographies in International Relations_, edited by Patrick James. New York: Oxford University Press.  
+<br>
 <button onclick=" window.open('https://doi.org/10.1093/OBO/9780199743292-0305','_blank')" class="button">Publisher's Version</button> 
 </p>
 
@@ -82,7 +82,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 <p>
 "Affluence without Influence? The Inducement Dilemma in Economic Statecraft." (Job market paper)
-
+<br>
 <button onclick="myFunction('absAffluence')" class="button">Abstract</button>
 <button onclick=" window.open('https://j.mp/zChan','_blank')" class="button">Current Draft</button> 
 
@@ -94,7 +94,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 <p>
 "The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy."
-
+<br>
 <button onclick="myFunction('absFiscal')" class="button">Abstract</button>
 
 <div id='absFiscal' style="display: none;">
@@ -105,7 +105,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 <p>
 "Great Expectations: How Expectancy Discrepancies Shape Effectiveness of Reassurance."
-
+<br>
 <button onclick="myFunction('absExpectation')" class="button">Abstract</button>
 <button onclick=" window.open('https://osf.io/45ye8/','_blank')" class="button">Pre-analysis Plan</button> 
 
@@ -117,7 +117,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 <p>
 "Aid for Status? Experimental Evidence from China and the United States." (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)
-
+<br>
 <button onclick="myFunction('absAid')" class="button">Abstract</button>
 
 <div id='absAid' style="display: none;">
@@ -128,7 +128,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 <p>
 "Weaponizing Facts: How Revisionist States Polarize Foreign Audiences with Factual Content." (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)
-
+<br>
 <button onclick="myFunction('absPolarization')" class="button">Abstract</button>
 <button onclick=" window.open('https://osf.io/b56md/','_blank')" class="button">Pre-analysis Plan</button> 
 <button onclick=" window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122667','_blank')" class="button">Current Draft</button> 
@@ -141,7 +141,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 <p>
 "Transparent Machine Learning through Improved Variable Importance Measures." (with <a href="https://scholar.princeton.edu/ratkovic/home" target="_blank">Marc Ratkovic</a>)
-
+<br>
 <button onclick="myFunction('absVIM')" class="button">Abstract</button>
 <button onclick=" window.open('https://youtu.be/44u5qYwUL-U','_blank')" class="button">Presentation Video</button> 
 
