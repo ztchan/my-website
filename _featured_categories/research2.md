@@ -8,8 +8,14 @@ sitemap:
   priority: .8
 ---
 
-<!-- Include Bootstrap CSS -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
 
 
 * TOC
@@ -18,18 +24,10 @@ sitemap:
 
 ## Publications
 
-<p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    Link with href
-  </a>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Button with data-target
-  </button>
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-  </div>
+<button onclick="myFunction()">Click Me</button>
+
+<div id="myDIV">
+  This is my DIV element.
 </div>
 
 * **Chan, Zenobia T.**, and <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>. 2022. "<a href="https://doi.org/10.1007/s11558-021-09436-y" target="_blank">Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union</a>." _Review of International Organizations_ 17 (3): 513–41.
