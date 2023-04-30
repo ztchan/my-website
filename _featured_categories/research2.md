@@ -26,7 +26,7 @@ function myFunction(divId) {
     transition-duration: 0.2s;
     border-radius: 4px;
     background-color: white;
-    border: 1px dashed #0096D6;
+    border: 1px solid #0096D6;
     font-size: 12px;
     margin: 4px auto;
     cursor: pointer;
@@ -42,8 +42,8 @@ function myFunction(divId) {
     transition-duration: 0.2s;
     border-radius: 4px;
     background-color: white;
-    border: 1px dashed #878787;
-    color: #878787;
+    border: 1px dashed #8CD2F4;
+    color: #8CD2F4;
     font-size: 12px;
     margin: 4px auto;
     cursor: pointer;
@@ -51,7 +51,7 @@ function myFunction(divId) {
 }
 	
 .button1:hover {
-  background-color: #878787; 
+  background-color: #8CD2F4; 
   color: white;
 }
 </style>
