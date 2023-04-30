@@ -55,12 +55,13 @@ function myFunction(divId) {
     color: white;
 }
 	
-ol {
+ol li::marker {
     color: #8CD2F4;
-    left-padding: 15px;
-    bottom-padding: 1.5em;
 }
-
+	
+li {
+    padding-bottom: 1.5em;
+}
 	
 </style>
 
