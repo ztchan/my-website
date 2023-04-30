@@ -60,7 +60,8 @@ ol li::marker {
 }
 	
 ol li {
-    padding-bottom: 1.5em;
+    padding-left: 10px;
+    padding-bottom: 1.25em;
 }
 	
 </style>
