@@ -30,7 +30,7 @@ function myFunction(divId) {
     font-size: 12px;
     margin: 4px auto;
     cursor: pointer;
-    padding: 2px 2px;
+    padding: 4px;
 }
 	
 .button:hover {
@@ -47,7 +47,7 @@ function myFunction(divId) {
     font-size: 12px;
     margin: 4px auto;
     cursor: pointer;
-    padding: 2px 2px;
+    padding: 4px;
 }
 	
 .button1:hover {
