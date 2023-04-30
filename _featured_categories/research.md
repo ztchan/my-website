@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Research
-permalink: /research2/
-sidebar_link: false
+permalink: /research/
+sidebar_link: true
 sidebar_sort_order: 2
 sitemap:
   priority: .8
