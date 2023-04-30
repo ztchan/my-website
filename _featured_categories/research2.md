@@ -64,6 +64,17 @@ ol li {
     padding-bottom: 1.25em;
 }
 	
+ul li::marker {
+    color: #8CD2F4;
+	
+}
+	
+ul li {
+    padding-left: 10px;
+    padding-bottom: 1.25em;
+}
+
+	
 </style>
 
 
@@ -125,7 +136,8 @@ Audience Costs and the Credibility of Commitments
 
 Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the latest drafts.
 
-<p>
+<ul>
+<li>
 Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (Job market paper)
 <br>
 <button onclick="myFunction('absAffluence')" class="button">Abstract</button>
@@ -134,10 +146,10 @@ Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (Job
 <div id='absAffluence' style="display: none;">
   <blockquote>When can economic inducements——such as foreign aid, investment, and especially large-scale development initiatives——buy influence abroad? Countries often use financial favors to induce foreign policy concessions from other countries. The effectiveness of such inducements hinges on whether the sender can credibly threaten to halt or withdraw the inducements when the target does not concede. I examine a substantial set of development initiatives that are lucrative not just for the target but also for the sender. I argue that when the sender profits from  the inducement it gives, it will not cut off the inducement, even if the target does not concede. I test this <i>inducement dilemma</i> in China’s Belt and Road Initiative (BRI). Using over 200 elite interviews, official documents published by the Chinese government, and original datasets on China’s overseas project contracts, I show that Beijing’s dual goals of the BRI are to (1) tackle  domestic economic and environmental problems by encouraging Chinese companies to implement infrastructure projects and invest abroad, and (2) gain international acceptance of China’s  development and governance models. Consistent with my argument, the profit motive undercuts the foreign policy goal. These infrastructure projects promote international support for  China’s governance and development models only when these projects do not serve China’s economic motive of promoting outward direct investment. </blockquote>
 </div>
-</p>
+</li>
 
 
-<p>
+<li>
 The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy
 <br>
 <button onclick="myFunction('absFiscal')" class="button">Abstract</button>
@@ -145,10 +157,10 @@ The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy
 <div id='absFiscal' style="display: none;">
   <blockquote>Does reliance on foreign aid affect government legitimacy in recipient countries? Fiscal contract theorists postulate that public goods and services provided by foreign donors can threaten government legitimacy, but empirical research has found little support for this hypothesis. Drawing on over 120 elite interviews in donor and recipient countries, I argue that the fiscal contract between the government and citizenry is untenable in most aid recipient countries because of the lack of visible taxation. I present a tax game between citizens with reference-dependent preferences and the government. My formal model shows that with sufficient foreign aid, the fiscal contract <i>does not exist</i> and citizens' evaluation of their government varies by the discrepancy between their baseline expectations and the actual public goods they receive, regardless of provider. I test my arguments using an original survey experiment in Uganda and find that, in line with my theory, the <i>positive</i> effects of aid on government legitimacy are especially pronounced among citizens with lower perceived effective tax rates. </blockquote>
 </div>
-</p>
+</li>
 
 
-<p>
+<li>
 Great Expectations: How Expectancy Discrepancies Shape Effectiveness of Reassurance
 <br>
 <button onclick="myFunction('absExpectation')" class="button">Abstract</button>
@@ -157,10 +169,10 @@ Great Expectations: How Expectancy Discrepancies Shape Effectiveness of Reassura
 <div id='absExpectation' style="display: none;">
   <blockquote>What makes reassurance effective? Reassurance is crucial to stability in international politics as a means of signaling benign intentions towards allies and adversaries. Drawing on insights from behavioral economics, information theory, and psychology, I argue that reassurance signals are most effective when they are surprising, i.e. when they deviate drastically from receivers' prior expectations, because they draw more attention from decision-makers, prompting them to re-evaluate their pre-existing beliefs about the sender. When decision-makers re-evaluate their beliefs, prior expectations serve as the reference point against which they assess the sender's intentions. My theory posits that when decision-makers are <i>pleasantly surprised</i>, i.e. receiving a signal that is both credible and above expectations, they are more likely to believe in the benign intentions of the sender. Contrary to the rationalist literature on costly signaling in international relations, my theory holds that reassuring signals are informative not necessarily because they are costly, but because they are surprising. I test my theory using an original survey experiment on a national sample of Estonian voters. I find that the effectiveness of reassurance signals hinges on the receivers' prior expectations and that costly signals are not necessarily more credible. </blockquote>
 </div>
-</p>
+</li>
 
 
-<p>
+<li>
 Aid for Status? Experimental Evidence from China and the United States. (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)
 <br>
 <button onclick="myFunction('absAid')" class="button">Abstract</button>
@@ -168,10 +180,10 @@ Aid for Status? Experimental Evidence from China and the United States. (with <a
 <div id='absAid' style="display: none;">
   <blockquote>Does international status affect aid preferences? We conduct the first experimental study of aid preferences in an emerging donor country using original survey data from China, and a parallel study in the United States. We find striking differences in the aid preferences of both countries that support the status-seeking hypothesis: Chinese support for aid increases significantly when foreign aid provision is framed as a means of the country gaining higher international status, but Americans remain unswayed. We also use causal forests, a machine learning algorithm, to systematically evaluate heterogeneous treatment effects across a wide range of dispositional covariates in a principled manner with honest inferences. The results indicate status has especially pronounced positive impacts on the aid preferences of cosmopolitan Chinese citizens but negative impacts on Americans who are less cosmopolitan and have lower income. </blockquote>
 </div>
-</p>
+</li>
 
 
-<p>
+<li>
 Weaponizing Facts: How Revisionist States Polarize Foreign Audiences with Factual Content. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)
 <br>
 <button onclick="myFunction('absPolarization')" class="button">Abstract</button>
@@ -181,10 +193,10 @@ Weaponizing Facts: How Revisionist States Polarize Foreign Audiences with Factua
 <div id='absPolarization' style="display: none;">
   <blockquote>How do revisionist states leverage new technologies to disrupt foreign politics? Drawing on extensive elite interviews and insights from behavioral economics and social psychology, we argue that revisionist powers can use strategic narratives — factual accounts of issues controversial across pre-existing societal cleavages — to polarize voters through a combination of confirmation bias and reactance. Contrary to recent literature on fake news, we present evidence on the political economy of social media platforms that renders fake news impracticable and counter-productive in most markets. We test the effects of Russian strategic narratives using original survey experiments in Estonia. We show that exposure to factual content on migration and the Soviet legacy polarized Estonian voters along ethnolinguistic cleavages by making ethnic Estonians more likely to support right-leaning nationalist parties, while pushing the Russian-speaking minority to back left-leaning ethnic interest parties. A polarized population serves the revisionist state sender’s objective of paralyzing policy-making in the target state. </blockquote>
 </div>
-</p>
+</li>
 
 
-<p>
+<li>
 Transparent Machine Learning through Improved Variable Importance Measures. (with <a href="https://scholar.princeton.edu/ratkovic/home" target="_blank">Marc Ratkovic</a>)
 <br>
 <button onclick="myFunction('absVIM')" class="button">Abstract</button>
@@ -193,4 +205,6 @@ Transparent Machine Learning through Improved Variable Importance Measures. (wit
 <div id='absVIM' style="display: none;">
   <blockquote>Boosting and random forests are among the best off-the-shelf prediction tools. These methods offer a variable importance measure (VIM), which is a cumulative measure of the improvement in accuracy over the algorithm.  We show existing variable importance measures, as implemented, are biased, returning positive scores on irrelevant variables.  Intuitively, if a variable is irrelevant but correlates with a relevant variable, this correlation may lead to an improvement in performance may be misattributed to the irrelevant variable.   We introduce a method that removes this bias.  The method works by separating each predictor into a component explained by other predictors (a "predicted variable"), and a component not (a "partialed out variable").  We assess variable importance only through any improvement attributable to the latter.  We prove the method returns a valid VIM, meaning it is mean-zero  and asymptotically normal for irrelevant variables.  Simulation evidence and applications to UCI data suggest the method also performs favorably relative to several existing machine learning methods in terms of predictive accuracy.</blockquote>
 </div>
-</p>
+</li>
+
+</ul>
