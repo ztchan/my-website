@@ -54,17 +54,29 @@ function myFunction(divId) {
   background-color: #8CD2F4; 
   color: white;
 }
+	
+ol li::marker {
+    color: #8CD2F4;
+}
+	
+ol li {
+    padding-left: 8px;
+    padding-bottom: 1.25em;
+}
+
 </style>
 
 
 * TOC
 {:toc}
-<p>&nbsp;</p>
+
 
 ## Publications
 
-<p>
-[3] Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union 
+<ol reversed>
+
+<li>
+Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union 
   (with <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>) <br>
   <b>Review of International Organizations</b>, 2022, 17(3): 513–41. <br>
 
@@ -75,11 +87,11 @@ function myFunction(divId) {
 <div id='absBehindTheScreen' style="display: none;">
   <blockquote>What determines national preferences for institutionalizing FDI screening? Over the past decade, advanced economies worldwide have tightened their national investment screening mechanisms (ISMs) for foreign direct investment (FDI). In March 2019, the European Union (EU) adopted its first common FDI screening framework. Based on extensive interviews with high-level EU and country officials involved in the negotiation process, and using a unique measure of national support for the EU-wide ISM created through the first-ever elite survey on this subject matter, we find that countries with higher technological levels were more supportive of FDI screening due to concerns over unreciprocated technological transfer. We also find sector-dependent effects of Chinese FDI on country-level support for FDI screening: Countries with high levels of Chinese FDI in strategic sectors are more likely to support the EU ISM, while those with high levels of Chinese investment in low-tech sectors tend to oppose screening. Our overall findings suggest that EU investment screening, and national-level screening in general, might become more restrictive in the future, especially in light of the COVID-19 pandemic.</blockquote>
 </div>
-</p>
+</li>
 
 
-<p>
- [2] Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials.
+<li>
+Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials.
   (with <a href="https://natematias.com/" target="_blank">J. Nathan Matias</a> and Eric Pennington) <br>
   <b>Proceedings of the ACM Conference on Fairness, Accountability, and Transparency</b>, 2022: 1722–32. <br>
 
@@ -92,15 +104,18 @@ function myFunction(divId) {
 <div id='absNof1' style="display: none;">
   <blockquote>As public trust in technology companies has declined, people are questioning the effects of digital technologies in their lives. In this context, many evidence-free claims from corporations and tech critics are widely circulated. How can members of the public make evidence-based decisions about digital technology in their lives? In clinical fields, N -of-one trials enable participant-investigators to make personalized causal discoveries about managing health, improving fitness, and improving their education. Similar methods could help community scientists understand and manage how they use digital technologies. In this paper, we introduce Conjecture, a system for coordinating <i>N</i>-of-one trials that can guide personal decisions about technology use and contribute to science. We describe <i>N</i>-of-one trials as a design challenge and present the design of the Conjecture system. We evaluate the system with a field experiment that tests folk theories about the influence of colorful screens on alleged phone addiction. We present findings on the design of <i>N</i>-of-one-trial systems based on submitted data, interviews, and surveys with 14 participants. Taken together, this paper introduces <i>N</i>-of-one trials as a fruitful direction for computer scientists designing industry-independent systems for evidence-based technology governance and accountability.</blockquote>
 </div>
-</p>
+</li>
 
 
-<p>
- [1] Audience Costs and the Credibility of Commitments
+<li>
+Audience Costs and the Credibility of Commitments
   (with <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a> and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>) <br>
   <b>Oxford Bibliographies in International Relations</b>, 2021. <br>
 <button onclick=" window.open('https://doi.org/10.1093/OBO/9780199743292-0305','_blank')" class="button">Publisher's Version</button> 
-</p>
+</li>
+
+</ol>
+
 
 
 ## Working Papers
