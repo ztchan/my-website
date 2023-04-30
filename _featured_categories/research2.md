@@ -48,7 +48,7 @@ function myFunction(divId) {
 <p>
 [3] Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union 
   (with <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>) <br>
-  <b>Review of International Organizations</b>, 2022, 17(3). <br>
+  <b>Review of International Organizations</b>, 2022, 17(3): 513–41. <br>
 
 <button onclick="myFunction('absBehindTheScreen')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1007/s11558-021-09436-y','_blank')" class="button">Publisher's Version</button> 
@@ -63,7 +63,7 @@ function myFunction(divId) {
 <p>
  [2] Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials.
   (with <a href="https://natematias.com/" target="_blank">J. Nathan Matias</a> and Eric Pennington) <br>
-  <b>Proceedings of the ACM Conference on Fairness, Accountability, and Transparency</b>, 2022. <br>
+  <b>Proceedings of the ACM Conference on Fairness, Accountability, and Transparency</b>, 2022: 1722–32. <br>
 
 <button onclick="myFunction('absNof1')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1145/3531146.3533227','_blank')" class="button">Publisher's Version</button> 
