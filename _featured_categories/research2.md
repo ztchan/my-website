@@ -56,7 +56,9 @@ function myFunction(divId) {
 }
 	
 ol {
-    color: #333333;
+    color: #8CD2F4;
+    left-padding: 15px;
+    bottom-padding: 1.5em;
 }
 
 	
