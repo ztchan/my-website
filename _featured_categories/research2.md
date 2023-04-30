@@ -42,7 +42,6 @@ function myFunction(divId) {
     border-radius: 4px;
     background-color: white;
     border: 1px dashed #878787;
-    color: #878787;
     font-size: 12px;
     margin: 4px auto;
     cursor: pointer;
