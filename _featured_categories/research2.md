@@ -90,7 +90,7 @@ function myFunction(divId) {
 Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the latest drafts.
 
 <p>
-"Affluence without Influence? The Inducement Dilemma in Economic Statecraft." (Job market paper)
+Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (Job market paper)
 <br>
 <button onclick="myFunction('absAffluence')" class="button">Abstract</button>
 <button onclick=" window.open('https://j.mp/zChan','_blank')" class="button">Current Draft</button> 
