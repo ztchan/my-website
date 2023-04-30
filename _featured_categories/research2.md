@@ -102,7 +102,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 
 <p>
-"The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy."
+The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy
 <br>
 <button onclick="myFunction('absFiscal')" class="button">Abstract</button>
 
@@ -113,7 +113,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 
 <p>
-"Great Expectations: How Expectancy Discrepancies Shape Effectiveness of Reassurance."
+Great Expectations: How Expectancy Discrepancies Shape Effectiveness of Reassurance
 <br>
 <button onclick="myFunction('absExpectation')" class="button">Abstract</button>
 <button onclick=" window.open('https://osf.io/45ye8/','_blank')" class="button">Pre-analysis Plan</button> 
@@ -125,7 +125,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 
 <p>
-"Aid for Status? Experimental Evidence from China and the United States." (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)
+Aid for Status? Experimental Evidence from China and the United States. (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)
 <br>
 <button onclick="myFunction('absAid')" class="button">Abstract</button>
 
@@ -136,7 +136,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 
 <p>
-"Weaponizing Facts: How Revisionist States Polarize Foreign Audiences with Factual Content." (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)
+Weaponizing Facts: How Revisionist States Polarize Foreign Audiences with Factual Content. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)
 <br>
 <button onclick="myFunction('absPolarization')" class="button">Abstract</button>
 <button onclick=" window.open('https://osf.io/b56md/','_blank')" class="button">Pre-analysis Plan</button> 
@@ -149,7 +149,7 @@ Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the 
 
 
 <p>
-"Transparent Machine Learning through Improved Variable Importance Measures." (with <a href="https://scholar.princeton.edu/ratkovic/home" target="_blank">Marc Ratkovic</a>)
+Transparent Machine Learning through Improved Variable Importance Measures. (with <a href="https://scholar.princeton.edu/ratkovic/home" target="_blank">Marc Ratkovic</a>)
 <br>
 <button onclick="myFunction('absVIM')" class="button">Abstract</button>
 <button onclick=" window.open('https://youtu.be/44u5qYwUL-U','_blank')" class="button">Presentation Video</button> 
