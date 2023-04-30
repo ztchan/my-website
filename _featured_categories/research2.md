@@ -58,15 +58,20 @@ function myFunction(divId) {
 ol {
     list-style: none;
     counter-reset: my-awesome-counter;
+    margin: 10px 0;
 }
 
 ol li {
     counter-increment: my-awesome-counter;
+    padding: 5px 1em;
 }
 
 ol li::before {
     content: "[" counter(my-awesome-counter) "] ";
-    color: #666666;
+    color: #555555;
+    width: 1.5em;
+    margin-left: -1.5em;
+ 
 }
 	
 </style>
