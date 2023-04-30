@@ -59,7 +59,7 @@ ol li::marker {
     color: #8CD2F4;
 }
 	
-li {
+ol li {
     padding-bottom: 1.5em;
 }
 	
