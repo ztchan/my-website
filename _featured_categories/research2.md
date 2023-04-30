@@ -38,12 +38,18 @@ function myFunction(divId) {
 }
 
 .button-muted {
-    border: 1px dashed #666666;
-    color: #666666;
+    transition-duration: 0.2s;
+    border-radius: 4px;
+    background-color: white;
+    border: 1px dashed #878787;
+    color: #878787;
+    font-size: 12px;
+    margin: 4px auto;
+    cursor: pointer;
 }
 	
 .button-muted:hover {
-  background-color: #666666; 
+  background-color: #878787; 
   color: white;
 }
 </style>
