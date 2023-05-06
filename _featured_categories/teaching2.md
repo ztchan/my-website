@@ -154,7 +154,7 @@ ol li {
 
 
 <p>
-<b>POL 572: Quantitative Analysis II</b><br>
+<b>POL 573 / SOC 595: Quantitative Analysis III</b><br>
 (Preceptor with Rocío Titiunik, Department of Politics, Princeton University, Fall 2019)
 <br>
 <button onclick="myFunction('desPOL573')" class="button">Course Description</button>
@@ -168,7 +168,7 @@ ol li {
 
 <p>
 <b>Text Analysis</b><br>
-(Co-Instructor with Will Lowe, Institute for Qualitative and Mixed-Method Research (IQMR), Summer 2019, 2021, 2022, 2023)
+(Co-Instructor with Will Lowe, Institute for Qualitative and Mixed-Method Research (IQMR), Summer 2019, 2021–23)
 <br>
 <button onclick="myFunction('desText')" class="button">Course Description</button>
 
