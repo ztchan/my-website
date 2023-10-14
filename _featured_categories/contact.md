@@ -9,12 +9,11 @@ sitemap:
 ---
 
 <b>Zenobia T. Chan</b><br>
-Ph.D. Candidate <br>
-Department of Politics <br>
-001 Fisher Hall <br>
-Princeton, NJ 08544-1012 <br>
-United States <br>
-<a href="mailto:zeno@princeton.edu" target="_blank">zeno@princeton.edu</a>
+Nuffield College <br>
+1 New Road <br>
+Oxford OX1 1NF <br>
+United Kingdom <br>
+<a href="mailto:zenobia.chan@nuffield.ox.ac.uk" target="_blank">zenobia.chan@nuffield.ox.ac.uk</a>
 
 
 <a href="https://twitter.com/ZenobiaChan?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ZenobiaChan</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
