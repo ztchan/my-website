@@ -82,6 +82,7 @@ Behind the Screen: Understanding National Support for an Investment Screening Me
 
 <button onclick="myFunction('absBehindTheScreen')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1007/s11558-021-09436-y','_blank')" class="button">Publisher's Version</button> 
+<button onclick=" window.open('https://drive.google.com/file/d/1D1cglmckeIBIdDSVDy9doMceS94xTsIH/view?usp=sharing','_blank')" class="button">Ungated Version</button> 
 <button onclick=" window.open('https://static-content.springer.com/esm/art%3A10.1007%2Fs11558-021-09436-y/MediaObjects/11558_2021_9436_MOESM1_ESM.zip','_blank')" class="button1">Appendices and Replication Files</button> 
 
 <div id='absBehindTheScreen' style="display: none;">
@@ -112,6 +113,7 @@ Audience Costs and the Credibility of Commitments
   (with <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a> and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>) <br>
   <b>Oxford Bibliographies in International Relations</b>, 2021. <br>
 <button onclick=" window.open('https://doi.org/10.1093/OBO/9780199743292-0305','_blank')" class="button">Publisher's Version</button> 
+<button onclick=" window.open('https://drive.google.com/file/d/1ZgHzi3WzaTvgAR8hL_SZbdMR07AlNxUS/view?usp=sharing','_blank')" class="button">Ungated Version</button> 
 </li>
 
 </ol>
