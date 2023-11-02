@@ -77,7 +77,7 @@ ol li {
 
 <li>
 Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union 
-  (with <a href="https://scholar.princeton.edu/smeunier/home" target="_blank">Sophie Meunier</a>) <br>
+  (with <a href="https://smeunier.scholar.princeton.edu/" target="_blank">Sophie Meunier</a>) <br>
   <b>Review of International Organizations</b>, 2022, 17(3): 513–41. <br>
 
 <button onclick="myFunction('absBehindTheScreen')" class="button">Abstract</button>
