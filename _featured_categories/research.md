@@ -122,13 +122,13 @@ Audience Costs and the Credibility of Commitments
 
 ## Working Papers
 
-Please <a href="mailto:zeno@princeton.edu" target="_blank">email me</a> for the latest drafts.
+Please <a href="mailto:zenobia.chan@nuffield.ox.ac.uk" target="_blank">email me</a> for the latest drafts.
 
 <p>
 Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (Job market paper)
 <br>
 <button onclick="myFunction('absAffluence')" class="button">Abstract</button>
-<button onclick=" window.open('https://j.mp/zChan','_blank')" class="button">Current Draft</button> 
+<button onclick=" window.open('https://ssrn.com/abstract=4789560','_blank')" class="button">Current Draft</button> 
 
 <div id='absAffluence' style="display: none;">
   <blockquote>When can economic inducements——such as foreign aid, investment, and especially large-scale development initiatives——buy influence abroad? Countries often use financial favors to induce foreign policy concessions from other countries. The effectiveness of such inducements hinges on whether the sender can credibly threaten to halt or withdraw the inducements when the target does not concede. I examine a substantial set of development initiatives that are lucrative not just for the target but also for the sender. I argue that when the sender profits from  the inducement it gives, it will not cut off the inducement, even if the target does not concede. I test this <i>inducement dilemma</i> in China’s Belt and Road Initiative (BRI). Using over 200 elite interviews, official documents published by the Chinese government, and original datasets on China’s overseas project contracts, I show that Beijing’s dual goals of the BRI are to (1) tackle  domestic economic and environmental problems by encouraging Chinese companies to implement infrastructure projects and invest abroad, and (2) gain international acceptance of China’s  development and governance models. Consistent with my argument, the profit motive undercuts the foreign policy goal. These infrastructure projects promote international support for  China’s governance and development models only when these projects do not serve China’s economic motive of promoting outward direct investment. </blockquote>
