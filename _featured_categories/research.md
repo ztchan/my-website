@@ -136,51 +136,29 @@ Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (Job
 </p>
 
 
-<p>
-The Missing Fiscal Contract? Revisiting Foreign Aid and Government Legitimacy
-<br>
-<button onclick="myFunction('absFiscal')" class="button">Abstract</button>
-
-<div id='absFiscal' style="display: none;">
-  <blockquote>Does reliance on foreign aid affect government legitimacy in recipient countries? Fiscal contract theorists postulate that public goods and services provided by foreign donors can threaten government legitimacy, but empirical research has found little support for this hypothesis. Drawing on over 120 elite interviews in donor and recipient countries, I argue that the fiscal contract between the government and citizenry is untenable in most aid recipient countries because of the lack of visible taxation. I present a tax game between citizens with reference-dependent preferences and the government. My formal model shows that with sufficient foreign aid, the fiscal contract <i>does not exist</i> and citizens' evaluation of their government varies by the discrepancy between their baseline expectations and the actual public goods they receive, regardless of provider. I test my arguments using an original survey experiment in Uganda and find that, in line with my theory, the <i>positive</i> effects of aid on government legitimacy are especially pronounced among citizens with lower perceived effective tax rates. </blockquote>
-</div>
-</p>
-
 
 <p>
-Great Expectations: How Expectancy Discrepancies Shape Effectiveness of Reassurance
-<br>
-<button onclick="myFunction('absExpectation')" class="button">Abstract</button>
-<button onclick=" window.open('https://osf.io/45ye8/','_blank')" class="button1">Pre-analysis Plan</button> 
-
-<div id='absExpectation' style="display: none;">
-  <blockquote>What makes reassurance effective? Reassurance is crucial to stability in international politics as a means of signaling benign intentions towards allies and adversaries. Drawing on insights from behavioral economics, information theory, and psychology, I argue that reassurance signals are most effective when they are surprising, i.e. when they deviate drastically from receivers' prior expectations, because they draw more attention from decision-makers, prompting them to re-evaluate their pre-existing beliefs about the sender. When decision-makers re-evaluate their beliefs, prior expectations serve as the reference point against which they assess the sender's intentions. My theory posits that when decision-makers are <i>pleasantly surprised</i>, i.e. receiving a signal that is both credible and above expectations, they are more likely to believe in the benign intentions of the sender. Contrary to the rationalist literature on costly signaling in international relations, my theory holds that reassuring signals are informative not necessarily because they are costly, but because they are surprising. I test my theory using an original survey experiment on a national sample of Estonian voters. I find that the effectiveness of reassurance signals hinges on the receivers' prior expectations and that costly signals are not necessarily more credible. </blockquote>
-</div>
-</p>
-
-
-<p>
-Aid for Status? Experimental Evidence from China and the United States. (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)
-<br>
-<button onclick="myFunction('absAid')" class="button">Abstract</button>
-
-<div id='absAid' style="display: none;">
-  <blockquote>Does international status affect aid preferences? We conduct the first experimental study of aid preferences in an emerging donor country using original survey data from China, and a parallel study in the United States. We find striking differences in the aid preferences of both countries that support the status-seeking hypothesis: Chinese support for aid increases significantly when foreign aid provision is framed as a means of the country gaining higher international status, but Americans remain unswayed. We also use causal forests, a machine learning algorithm, to systematically evaluate heterogeneous treatment effects across a wide range of dispositional covariates in a principled manner with honest inferences. The results indicate status has especially pronounced positive impacts on the aid preferences of cosmopolitan Chinese citizens but negative impacts on Americans who are less cosmopolitan and have lower income. </blockquote>
-</div>
-</p>
-
-
-<p>
-Weaponizing Facts: How Revisionist States Polarize Foreign Audiences with Factual Content. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)
+When Facts Polarize: Russian Information Operations and Polarization through Factual Content. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)
 <br>
 <button onclick="myFunction('absPolarization')" class="button">Abstract</button>
 <button onclick=" window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122667','_blank')" class="button">Current Draft</button> 
 <button onclick=" window.open('https://osf.io/b56md/','_blank')" class="button1">Pre-analysis Plan</button> 
 
 <div id='absPolarization' style="display: none;">
-  <blockquote>How do revisionist states leverage new technologies to disrupt foreign politics? Drawing on extensive elite interviews and insights from behavioral economics and social psychology, we argue that revisionist powers can use strategic narratives — factual accounts of issues controversial across pre-existing societal cleavages — to polarize voters through a combination of confirmation bias and reactance. Contrary to recent literature on fake news, we present evidence on the political economy of social media platforms that renders fake news impracticable and counter-productive in most markets. We test the effects of Russian strategic narratives using original survey experiments in Estonia. We show that exposure to factual content on migration and the Soviet legacy polarized Estonian voters along ethnolinguistic cleavages by making ethnic Estonians more likely to support right-leaning nationalist parties, while pushing the Russian-speaking minority to back left-leaning ethnic interest parties. A polarized population serves the revisionist state sender’s objective of paralyzing policy-making in the target state. </blockquote>
+  <blockquote>Growing ideological polarization now threatens democracies worldwide. This article addresses the inconclusive findings in political science regarding the role of counterattitudinal information in fueling such polarization. We argue that exposure to factual information embedded in one-sided narratives triggers reactance among those perceiving it as counterattitudinal, leading to backfiring, while simultaneously inducing confirmation bias among those who align with the information, hardening pre-existing beliefs. These two psychological phenomena combined lead to heightened polarization. We test our arguments using original, pre-registered survey experiments based on Russian information operations in Estonia, a NATO frontline state and prominent Kremlin target. Consistent with our theory, we find that one-sided factual content on Soviet legacy and migration polarizes voters along ethnolinguistic and pre-existing ideological cleavages. These findings advance scholarly understanding of the sources of ideological polarization and effects of information operations, particularly in the context of malign foreign influences. </blockquote>
 </div>
 </p>
+
+<p>
+Attributions and Deescalation: The Public Dynamics of U.S.–China Crisis Deescalation. (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)
+<br>
+<button onclick="myFunction('absAccident')" class="button">Abstract</button>
+
+<div id='absAccident' style="display: none;">
+  <blockquote>Policymakers and scholars alike have expressed grave concerns over the risks of an inadvertent crisis between the United States and China. What could be done to deescalate such a crisis and reduce the risk of war? Direct theoretical and empirical guidance on this question is scarce. Existing literature suggests that publics in both countries are nationalistic and reward confrontation and displays of strength. We challenge this conclusion and argue that handling a crisis with restraint through responsibility sharing can facilitate deescalation. First, we construct an interactive theory of crisis deescalation based on (1) attribution, where one side can send a public signal to attribute blame for the crisis to self, to other, or to neither parties; and (2) response, where the other side can either accept or reject the attribution. Then, we design parallel and interactive survey experiments in the United States and China to map our theory to real-world empirics. We find that blaming neither parties by attributing the crisis as an accident received the strongest approval from both American and Chinese citizens, especially when the other side cooperates in accepting the attribution. Our findings illuminate the public feasibilities of different policy pathways of deescalating an inadvertent crisis and reducing the risk of war. </blockquote>
+</div>
+</p>
+
 
 
 <p>
