@@ -10,8 +10,6 @@ sitemap:
 
 * TOC
 {:toc}
-<p>&nbsp;</p>
-
 
 ## Undergraduate Courses
 
@@ -35,7 +33,7 @@ sitemap:
 ## Ph.D. Courses
 
 * **POL 505: Experimental Political Science**
-	- Preceptor with Leonard Wantchekon, Department of Politics and School of Public and International Affairs, Princeton University (Spring 2020)
+	- Preceptor with Leonard Wantchekon, Department of Politics, Princeton University (Spring 2020)
 	- <details><summary>Course description</summary><blockquote>The goal of this course introduces students to the theoretical and practical features of experimental political science, particularly natural and field experiments. There is a special emphasis on the importance of distinguishing between policy-based and institution-based interventions, with attention given to the promise of the latter for political economy research. The course is divided into four sections. The first section of the course introduces students to the methodological underpinnings of experimental scholarship, particularly causal inference and the motivation behind randomization. The section focuses on practical application and experimental design, including randomization techniques, sample selection, and power analysis. It also includes a set of readings that address common problems and solutions. The second section focuses on experiments that occur in nature and how to extract causal estimates from these experiments.  The third section covers the conceptualization and operationalization of laboratory (and laboratory in the field) experiments, as well as survey experiments. Particular attention will be paid to the issues that arise when evaluating institutions. The final section will cover innovations in experimental methods for evaluating institutions. The course will conclude with student presentations of their research project.</blockquote></details> 
 
 * **POL 572: Quantitative Analysis II** 
@@ -49,7 +47,7 @@ sitemap:
 	- <details><summary>Course description</summary><blockquote>This course is an advanced graduate-level methods course, meant to be taken after POL 571 and POL 572 or equivalent courses. The course will cover several topics that are not usually covered in the first-year sequence, including asymptotics, hypothesis testing, maximum likelihood estimation, nonparametric estimation, partial identification, and resampling methods. The course will be both theoretical and practical. There will be regular problem sets that will require the empirical analysis of real datasets as well as theoretical exercises, and two exams.</blockquote></details> 
 	
 * **Text Analysis** 
-	- Assistant instructor with Will Lowe, Institute for Qualitative and Mixed-Method Research (IQMR) (Summer 2019, Summer 2021)
+	- Assistant instructor with Will Lowe, Institute for Qualitative and Mixed-Method Research (IQMR) (Summer 2019)
 	- <details><summary>Course description</summary><blockquote>These modules are about using computers to systematically analyze text, typically as precursor, successor, or complement to a qualitative analysis. We’ll discuss and practice classical dictionary-based content analysis and its newer incarnation topic modeling, consider how to classify large numbers of documents by topic, and show how to project their contents into rhetorical spaces for understanding and visualization. Along the way we’ll scrape texts from the web, and discuss good ways to integrate text analysis into a variety or research designs. We’ll presume a grasp of basic mathematical and statistical concepts and a willingness to follow along with the computational parts. The module mostly uses R and its packages. Expertise in R is not required, although some prior experience may be helpful. If there is interest we can also run a very short introduction to R prior to the course for those who’ve not met it before.</blockquote></details> 
 	
 ## Public Policy Master's Courses
@@ -58,7 +56,7 @@ sitemap:
 	- Tutor with David Lee, School of Public and International Affairs, Princeton University (Fall 2019, Fall 2020)
 	- <details><summary>Course description</summary><blockquote>Today, more data are available to researchers than ever before. In this course, we’ll cover how to use statistics to harness these data to improve policy analysis. This course will equip you to understand the mathematical foundations of statistics, to understand common types of quantitative analysis, and to apply these tools yourself using the statistical software package Stata. Our overarching goal is application: to give you the means of answering big policy questions, and not get bogged into the weeds of math and notation. We want you to be a discerning consumer of statistical news, and someone who can use the principles of statistics to do your own analysis.</blockquote></details> 
 
-* **SPI 507C: Advanced Quantitative Analysis for Policymakers
+* **SPI 507C: Advanced Quantitative Analysis for Policymakers**
 	- Tutor with Eduardo Morales, School of Public and International Affairs, Princeton University (Fall 2020)
 	- <details><summary>Course description</summary><blockquote>Statistical analysis with applications to public policy, begins with an introduction to probability theory followed by discussion of statistical methods for estimating the quantitative effects of changes in policy variables. Regression methods appropriate for the analysis of observational data and data from randomized controlled experiments are stressed. By course end, students are able to do their own empirical analysis using statistical software package & interpret regression results from the professional literature. The course assumes fluency in calculus, which is necessary for rigorous mathematical analysis of probability and statistics.</blockquote></details> 
 
@@ -79,5 +77,3 @@ sitemap:
 	- <details><summary>Course description</summary><blockquote>This course combines a traditional public health course in epidemiology with a policy-oriented course on population health. Conventional topics include measurement of health and survival and impact of associated risk factors; techniques for design, analysis of epidemiologic studies; sources of bias and confounding; and causal inference. We also examine: models of infectious disease with an emphasis on COVID-19, inference and decision making based on large numbers of studies and contradictory information, the science underlying screening procedures, social inequalities in health, and ethical issues in medical research.</blockquote></details> 
 
 	
-
-
