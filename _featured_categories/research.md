@@ -125,7 +125,7 @@ Audience Costs and the Credibility of Commitments
 Please <a href="mailto:zenobia.chan@nuffield.ox.ac.uk" target="_blank">email me</a> for the latest drafts.
 
 <p>
-Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (Job market paper)
+Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (under review)
 <br>
 <button onclick="myFunction('absAffluence')" class="button">Abstract</button>
 <button onclick=" window.open('https://ssrn.com/abstract=4789560','_blank')" class="button">Current Draft</button> 
@@ -138,7 +138,7 @@ Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (Job
 
 
 <p>
-When Facts Polarize: Russian Information Operations and Polarization through Factual Content. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)
+When Facts Polarize: Russian Information Operations and Polarization through Factual Content. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>, under review)
 <br>
 <button onclick="myFunction('absPolarization')" class="button">Abstract</button>
 <button onclick=" window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122667','_blank')" class="button">Current Draft</button> 
@@ -152,7 +152,7 @@ When Facts Polarize: Russian Information Operations and Polarization through Fac
 
 
 <p>
-The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Operations. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>)
+The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Operations. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>, under review)
 <br>
 <button onclick="myFunction('absRelayStation')" class="button">Abstract</button>
 <button onclick=" window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955091','_blank')" class="button">Current Draft</button> 
@@ -162,8 +162,22 @@ The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Ope
 </div>
 </p>
 
+
+
 <p>
-Attributions and Deescalation: The Public Dynamics of U.S.–China Crisis Deescalation. (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)
+Tying-Hands Versus Bluster: Authoritativeness, Words, and Deeds in Crisis Communication. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, under review)
+<br>
+<button onclick="myFunction('absMultipleChannel')" class="button">Abstract</button>
+<button onclick=" window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4970055','_blank')" class="button">Current Draft</button> 
+
+<div id='absMultipleChannel' style="display: none;">
+  <blockquote>When do public statements reveal a state's true intentions? While much of the international relations literature argues that states issue public threats during crises to tie their own hands, recent research suggests that public signals are often noisier than private ones and states bluster to de-escalate. We contend that a state can simultaneously tie its own hands and bluster during a crisis, albeit through communication channels of different authoritativeness. Less authoritative channels offer plausible deniability, making bluster more likely, whereas states are more inclined to tie their hands through more authoritative channels. Examining China's public threats to Taiwan in 3,635 newspaper articles from 2016–2022, we find systematic evidence supporting our argument. We show that only military threats published in <i>People’s Daily</i> — the most authoritative newspaper of the Chinese Communist Party — forecast incursions by the People’s Liberation Army into Taiwan’s air defense identification zone. In contrast, threats published in less authoritative outlets like the <i>Global Times</i> do not. Our findings reconcile the seemingly contradictory mechanisms of tying hands and bluster, and offer implications for crisis de-escalation.</blockquote>
+</div>
+</p>
+
+
+<p>
+Attributions and Deescalation: The Public Dynamics of U.S.–China Crisis Deescalation. (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>, under review)
 <br>
 <button onclick="myFunction('absAccident')" class="button">Abstract</button>
 <button onclick=" window.open('https://ssrn.com/abstract=4894404','_blank')" class="button">Current Draft</button> 
