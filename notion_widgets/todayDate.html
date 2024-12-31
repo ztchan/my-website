@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date Widget</title>
+
+    <style>
+
+
+        body{
+            font-variant-caps: all-petite-caps;
+        }
+
+        .widget {
+            padding: 5px 5px ;
+            color: #000000;
+            display: flex;
+            justify-content:center;
+            align-items:center;
+            flex-direction: column;
+            height: 100vh;
+            margin: auto;
+            border: 3px solid #f7f7f7;
+            border-radius: 5px;
+        }
+
+           
+        .month-part{
+            font-size: 2em;
+        }
+
+        .day-part {
+            font-family: sans-serif;
+            font-size: 6em;
+            font-weight: extra-bold;
+        }
+
+        .year-part {
+            display: inline-block;
+            min-width: 20px;
+            font-size: 2em;
+        }
+
+        .separator {
+            font-size: 1em;
+            display: inline-block;
+            min-width: 20px;
+        }
+
+
+    </style>
+</head>
+<body>
+
+
+
+
+<div class="container>">
+    <div class="widget">
+                <p id="month" class="month-part"></p>
+                <p id="day" class="day-part"></p>
+                <div id="day-of-week" class="year-part"></div>
+                <div class="separator">   </div>
+                <div id="year" class="year-part"></div>
+    </div>
+</div>
+        
+
+
+
+<script>
+    function updateDate() {
+      const today = new Date();
+      const dayOfWeek = today.toLocaleString('en-US', { weekday: 'short' });
+      const month = today.toLocaleString('en-US', { month: 'long' });
+      const day = today.getDate();
+      const year = today.getFullYear();
+
+      document.getElementById('day-of-week').textContent = dayOfWeek;
+      document.getElementById('month').textContent = month;
+      document.getElementById('day').textContent = day;
+      document.getElementById('year').textContent = year;
+    }
+
+    // Update the date initially
+    updateDate();
+
+    // Update the date daily at midnight
+    setInterval(updateDate, 1000);
+
+</script>
+
+</body>
+</html>
