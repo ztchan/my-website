@@ -3,86 +3,136 @@
 <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Date Widget</title>
+    <title>Date and Clock Widgets</title>
 
     <style>
-
-        .widget {
-            padding: 5px 5px ;
-            color: #000000;
+        body {
+            margin: 0;
             display: flex;
-            justify-content:center;
-            align-items:center;
-            flex-direction: column;
-            max-width: 95%;
-            margin: auto;
-            border: 5px solid #f7f7f7;
-            border-radius: 5px;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f9f9f9;
+            font-family: "Fira Sans", sans-serif;
         }
 
-           
-        .month-part{
-            font-size: 1.75em;
-            font-family: "Fira Sans", sans-serif;
+        .container {
+            display: flex;
+            align-items: stretch; /* Align items to fill the same height */
+            gap: 20px; /* Space between widgets */
+            padding: 20px;
+            border: 5px solid #f7f7f7;
+            border-radius: 10px;
+            background: #ffffff;
+            width: 90%; /* Set responsive width */
+            max-width: 1000px; /* Limit maximum width */
+        }
+
+        .widget, .clock-widget {
+            flex: 1; /* Equal width for both widgets */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #000000;
+        }
+
+        .clock-widget {
+            aspect-ratio: 1; /* Keeps the clock widget square */
+            max-width: 100%; /* Ensures responsiveness */
+        }
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .month-part {
+            font-size: 1.5vw; /* Responsive font size */
+            font-weight: 300;
         }
 
         .day-part {
-            font-family: "Fira Sans", sans-serif;
-            font-size: 8em;
-            font-weight: 600;
+            font-family: "Merriweather", serif;
+            font-size: 6vw; /* Responsive font size */
+            font-weight: 900;
         }
 
-        .year-part {
+        .year-part, .separator {
+            font-size: 1.25vw; /* Responsive font size */
             display: inline-block;
-            font-family: "Fira Sans", sans-serif;
-            font-size: 1.5em;
+            min-width: 20px;
+            font-weight: 200;
         }
 
-        .separator {
-            font-size: 1.5em;
-            display: inline-block;
-            font-family: "Fira Sans", sans-serif;
-            min-width: 40px;
+        @media (max-width: 2000px) {
+            .month-part {
+                font-size: 6vw;
+            }
+
+            .day-part {
+                font-size: 24vw;
+            }
+
+            .year-part, .separator {
+                font-size: 5vw;
+            }
         }
 
+        @media (max-width: 480px) {
+            .container {
+                flex-direction: column; /* Stack widgets on smaller screens */
+                align-items: center;
+            }
 
+            .clock-widget {
+                width: 80%; /* Reduce width for smaller screens */
+                aspect-ratio: 1;
+            }
+        }
     </style>
 </head>
 <body>
 
+<div class="container">
+    <!-- Date widget -->
+    <div class="widget" id="date-widget">
+        <div id="month" class="month-part"></div>
+        <div id="day" class="day-part"></div>
+        <div class="bottom">
+            <div id="day-of-week" class="year-part"></div>
+            <div class="separator">    </div>
+            <div id="year" class="year-part"></div>
+        </div>
+    </div>
 
-
-
-<div class="container>">
-    <div class="widget">
-                <div id="month" class="month-part"></div>
-                <div id="day" class="day-part"></div>
-                <div class="bottom">
-                	<div id="day-of-week" class="year-part"></div>
-                	<div class="separator"> </div>
-                	<div id="year" class="year-part"></div>
-                </div>
+    <!-- Clock widget -->
+    <div class="clock-widget">
+        <iframe 
+            src="https://www.widgetbox.app/embed/clock/analog/53bec000-bd4b-4d97-8e8a-6646d9ec73dd" 
+            allowfullscreen>
+        </iframe>
     </div>
 </div>
-        
-
-
 
 <script>
     function updateDate() {
-      const today = new Date();
-      const dayOfWeek = today.toLocaleString('en-US', { weekday: 'short' });
-      const month = today.toLocaleString('en-US', { month: 'long' });
-      const day = today.getDate();
-      const year = today.getFullYear();
+        const today = new Date();
+        const dayOfWeek = today.toLocaleString('en-US', { weekday: 'short' });
+        const month = today.toLocaleString('en-US', { month: 'long' });
+        const day = today.getDate();
+        const year = today.getFullYear();
 
-      document.getElementById('day-of-week').textContent = dayOfWeek;
-      document.getElementById('month').textContent = month;
-      document.getElementById('day').textContent = day;
-      document.getElementById('year').textContent = year;
+        document.getElementById('day-of-week').textContent = dayOfWeek;
+        document.getElementById('month').textContent = month;
+        document.getElementById('day').textContent = day;
+        document.getElementById('year').textContent = year;
     }
 
     // Update the date initially
@@ -90,7 +140,6 @@
 
     // Update the date daily at midnight
     setInterval(updateDate, 1000);
-
 </script>
 
 </body>
